@@ -1,0 +1,84 @@
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form3.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form4.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form5.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form3.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form4.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Form5.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Youtube\Group Project\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Movies.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.TicketBooking.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Receipt.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.SeatsBooking.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.CustomerD.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Action.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.JohnWickDetails.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\Interop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\AxInterop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\Interop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\AxInterop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.ResolveComReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.ActionDetails.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Romance.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Family.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Horror.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Project\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Login.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\Interop.WMPLib.dll
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\bin\Debug\AxInterop.WMPLib.dll
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.AssemblyReference.cache
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\Interop.WMPLib.dll
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\AxInterop.WMPLib.dll
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.ResolveComReference.cache
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Action.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.ActionDetails.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Family.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Horror.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.JohnWickDetails.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Login.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Movies.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Romance.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.TicketBooking.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Receipt.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.SeatsBooking.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.CustomerD.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.GenerateResource.cache
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.CoreCompileInputs.cache
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\KUSS Details\finalized\KUSS_MovieTicketBookingSystem\MovieTicketBookingSystem\KUSS\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\Interop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\AxInterop.WMPLib.dll
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\KUSS.csproj.ResolveComReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\Group Project\Final Project\Group Final KUSS\KUSS mod\KUSS\CRUD_Test\obj\Debug\CRUD_Test.pdb

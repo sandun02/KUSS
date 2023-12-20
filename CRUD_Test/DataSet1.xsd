@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ActionDB" msprop:Generator_TableClassName="ActionDBDataTable" msprop:Generator_TableVarName="tableActionDB" msprop:Generator_TablePropName="ActionDB" msprop:Generator_RowDeletingName="ActionDBRowDeleting" msprop:Generator_RowChangingName="ActionDBRowChanging" msprop:Generator_RowEvHandlerName="ActionDBRowChangeEventHandler" msprop:Generator_RowDeletedName="ActionDBRowDeleted" msprop:Generator_UserTableName="ActionDB" msprop:Generator_RowChangedName="ActionDBRowChanged" msprop:Generator_RowEvArgName="ActionDBRowChangeEvent" msprop:Generator_RowClassName="ActionDBRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Movie_Name" msprop:Generator_ColumnVarNameInTable="columnMovie_Name" msprop:Generator_ColumnPropNameInRow="Movie_Name" msprop:Generator_ColumnPropNameInTable="Movie_NameColumn" msprop:Generator_UserColumnName="Movie_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Plot_Summary" msprop:Generator_ColumnVarNameInTable="columnPlot_Summary" msprop:Generator_ColumnPropNameInRow="Plot_Summary" msprop:Generator_ColumnPropNameInTable="Plot_SummaryColumn" msprop:Generator_UserColumnName="Plot_Summary" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="850" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Director" msprop:Generator_ColumnVarNameInTable="columnDirector" msprop:Generator_ColumnPropNameInRow="Director" msprop:Generator_ColumnPropNameInTable="DirectorColumn" msprop:Generator_UserColumnName="Director" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Top_cast" msprop:Generator_ColumnVarNameInTable="columnTop_cast" msprop:Generator_ColumnPropNameInRow="Top_cast" msprop:Generator_ColumnPropNameInTable="Top_castColumn" msprop:Generator_UserColumnName="Top_cast" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

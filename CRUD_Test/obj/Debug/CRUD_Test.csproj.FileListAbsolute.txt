@@ -1,0 +1,23 @@
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\saple project\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form3.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form4.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Projects\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form5.resources
